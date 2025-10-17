@@ -1,4 +1,4 @@
-![logo](Uploading openart-image_zOTt9Y83_1760703514200_raw.png)
+![logo](https://github.com/QatreenFatima/Qatreena_Fatima/blob/main/image1.png)
 <h1 align="center">Hi 👋, I'm Qatreena Fatima</h1>
 <h3 align="center">I’m a 3rd-year Computer Science student passionate about Artificial Intelligence and its real-world applications.</h3>
 
