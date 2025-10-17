@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qatreenfatima&label=Profile%20views&color=0e75b6&style=flat" alt="qatreenfatima" /> </p>
 
-- 🔭 I’m currently work on biuilding intelligent chatbots and exploring the power of Python in AI-driven projectsng on [Guardial_Chatbot](https://github.com/QatreenFatima/Guardial_chatbot.git)
+- 🔭 I’m currently work on biuilding intelligent chatbots and exploring the power of Python in AI-driven projectsng on [Github](https://github.com/QatreenFatima/)
 
 - 📫You can contact me at **qatreenaf@gmail.com**
 
