@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Qatreena Fatima</h1>
 <h3 align="center">I’m a 3rd-year Computer Science student passionate about Artificial Intelligence and its real-world applications.</h3>
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
 <div align="left">
 
 - 🔭 I’m currently working on building intelligent chatbots and exploring the power of Python in AI-driven projects on [Github](https://github.com/QatreenFatima/)
@@ -18,8 +20,9 @@
 
 </div>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDNsN2d2bHBrZ2hraDZ0ZmVjZnRrZmU1M21pYTZ4cTU2djBuc2RmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  width="600"/>
 
+</div>
 
 
 
